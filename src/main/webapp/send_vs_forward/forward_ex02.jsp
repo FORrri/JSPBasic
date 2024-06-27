@@ -6,3 +6,5 @@
 <jsp:forward page="forward_ex03.jsp" >
 	<jsp:param value="홍길동" name="name"/>
 </jsp:forward>
+
+
